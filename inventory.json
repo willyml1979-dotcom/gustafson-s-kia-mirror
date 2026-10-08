@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Kia",
-  "generated_at": "2026-09-26T07:13:45",
+  "generated_at": "2026-10-08T14:37:18",
   "vehicle_count": 76,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2014,
       "make": "Kia",
       "model": "Optima 4dr Sdn Auto EXin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Kia Optima ",
@@ -34,7 +36,9 @@
       "year": 2014,
       "make": "Kia",
       "model": "Optima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Kia Optima ",
@@ -49,7 +53,9 @@
       "year": 2014,
       "make": "Kia",
       "model": "Optima",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Soul 5dr Wgn Auto EX *Ltd Avail*in Prince George",
@@ -66,7 +72,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Soul 5dr Wgn Auto EX *Ltd Avail*in Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Soul ",
@@ -82,7 +90,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Soul ",
@@ -98,13 +108,16 @@
       "year": 2017,
       "make": "Kia",
       "model": "Soul",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Ascent Limited 7-Passengerin Prince George",
       "vin": "4S4WMAPD1K3487607",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited 7-Passengerin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/06e21e2c471b.html",
       "source_url": "https://www.gustafsonskia.ca/used/2019-Subaru-Ascent-id14329122.html",
       "dealer_url": "https://www.gustafsonskia.ca/used/2019-Subaru-Ascent-id14329122.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -114,8 +127,10 @@
       "odometer_km": 136456,
       "year": 2019,
       "make": "Subaru",
-      "model": "Ascent Limited 7-Passengerin Prince George",
-      "condition": "used"
+      "model": "Ascent",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Ascent ",
@@ -131,7 +146,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Ascent ",
@@ -147,7 +164,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Comfortline 3.6 FSI 4MOTION *Ltd Avail*in Prince George",
@@ -164,7 +183,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas Comfortline 3.6 FSI 4MOTION *Ltd Avail*in Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas ",
@@ -180,7 +201,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas ",
@@ -196,13 +219,16 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson Essential AWDin Prince George",
       "vin": "KM8JBCAE4PU188918",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Essential AWDin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/bd1738e4f5b0.html",
       "source_url": "https://www.gustafsonskia.ca/used/2023-Hyundai-Tucson-id13450823.html",
       "dealer_url": "https://www.gustafsonskia.ca/used/2023-Hyundai-Tucson-id13450823.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -212,8 +238,10 @@
       "odometer_km": 79200,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Tucson Essential AWDin Prince George",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson ",
@@ -229,7 +257,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson ",
@@ -245,13 +275,16 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Seltos SX Turbo AWD w/Black Interiorin Prince George",
       "vin": "KNDETCA28P7435980",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SX Turbo",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/e5db08814b71.html",
       "source_url": "https://www.gustafsonskia.ca/used/2023-Kia-Seltos-id14118140.html",
       "dealer_url": "https://www.gustafsonskia.ca/used/2023-Kia-Seltos-id14118140.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -261,8 +294,10 @@
       "odometer_km": 106543,
       "year": 2023,
       "make": "Kia",
-      "model": "Seltos SX Turbo AWD w/Black Interiorin Prince George",
-      "condition": "used"
+      "model": "Seltos",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Seltos ",
@@ -278,7 +313,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Seltos ",
@@ -294,13 +331,16 @@
       "year": 2023,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Qashqai AWD SV CVTin Prince George",
       "vin": "JN1BJ1BWXPW108245",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "SV CVTin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/7d1add5412b4.html",
       "source_url": "https://www.gustafsonskia.ca/used/2023-Nissan-Qashqai-id14329699.html",
       "dealer_url": "https://www.gustafsonskia.ca/used/2023-Nissan-Qashqai-id14329699.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -310,8 +350,10 @@
       "odometer_km": 41362,
       "year": 2023,
       "make": "Nissan",
-      "model": "Qashqai AWD SV CVTin Prince George",
-      "condition": "used"
+      "model": "Qashqai",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Qashqai ",
@@ -327,7 +369,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Qashqai ",
@@ -343,12 +387,15 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage X-Line AWDin Prince George",
       "vin": "KNDPUCDF3R7216268",
       "stock": "NUMBER",
+      "trim": "X-Line AWDin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/3edc11419ce8.html",
       "source_url": "https://www.gustafsonskia.ca/used/2024-Kia-Sportage-id14316552.html",
       "dealer_url": "https://www.gustafsonskia.ca/used/2024-Kia-Sportage-id14316552.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -358,8 +405,10 @@
       "odometer_km": 41483,
       "year": 2024,
       "make": "Kia",
-      "model": "Sportage X-Line AWDin Prince George",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage ",
@@ -374,7 +423,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage ",
@@ -389,7 +440,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnivalin Prince George",
@@ -403,11 +456,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnivalin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/1cd728cf73d5.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Carnival_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Carnival_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -416,12 +472,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Carnival Hybridin Prince George",
-      "condition": "used"
+      "model": "Carnival",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EVin Prince George",
       "stock": "NUMBER",
+      "trim": "EVin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/059cf51aaa29.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Niro_EV.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Niro_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -430,8 +489,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EVin Prince George",
-      "condition": "used"
+      "model": "Niro",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltosin Prince George",
@@ -445,11 +506,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltosin Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/424576be7d6b.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -458,12 +522,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybridin Prince George",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/a418d98d8acb.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Plug_In_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -472,8 +539,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybridin Prince George",
-      "condition": "used"
+      "model": "Sorento Plug-In",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportagein Prince George",
@@ -487,11 +556,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportagein Prince George",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/6df22bf560a6.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sportage_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sportage_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -500,8 +572,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybridin Prince George",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnivalin Prince George",
@@ -515,11 +589,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnivalin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/1cd728cf73d5.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Carnival_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Carnival_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -528,12 +605,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Carnival Hybridin Prince George",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EVin Prince George",
       "stock": "NUMBER",
+      "trim": "EVin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/059cf51aaa29.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Niro_EV.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Niro_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -542,8 +622,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EVin Prince George",
-      "condition": "new"
+      "model": "Niro",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltosin Prince George",
@@ -557,11 +639,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltosin Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/424576be7d6b.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -570,12 +655,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybridin Prince George",
-      "condition": "new"
+      "model": "Sorento",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/a418d98d8acb.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Plug_In_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sorento_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -584,8 +672,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybridin Prince George",
-      "condition": "new"
+      "model": "Sorento Plug-In",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportagein Prince George",
@@ -599,11 +689,14 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportagein Prince George",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybridin Prince George",
       "stock": "NUMBER",
+      "trim": "Hybridin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6df22bf560a6.html",
       "source_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sportage_Hybrid.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/2026-Kia-Sportage_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -612,14 +705,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybridin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LXin Prince George",
       "vin": "3KPFT4DE2TE338901",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/30feba0251e5.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-K4-id14230748.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-K4-id14230748.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -628,14 +724,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "K4 LXin Prince George",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LXin Prince George",
       "vin": "3KPFT4DE5TE353036",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f00c6db181a7.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-K4-id14230766.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-K4-id14230766.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -644,14 +743,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "K4 LXin Prince George",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback LXin Prince George",
       "vin": "3KPFT5DE5TE347551",
       "stock": "NUMBER",
       "color": "Morning Haze",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6a89d11140ca.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-K4_Hatchback-id14230750.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-K4_Hatchback-id14230750.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -660,13 +762,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchback LXin Prince George",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EXin Prince George",
       "vin": "KNDEUCAA4T7885527",
       "stock": "NUMBER",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/7d978aba3ca0.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Seltos-id12915593.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Seltos-id12915593.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -675,14 +780,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Seltos EXin Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos LXin Prince George",
       "vin": "KNDEPCAA4T7937326",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/cd24c1df5e6a.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Seltos-id13494247.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Seltos-id13494247.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -691,14 +799,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Seltos LXin Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF4T7444934",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/35f56ce36542.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13062728.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13062728.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -707,14 +818,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Ex Premiumin Prince George",
       "vin": "KNDPVCDF2T7461972",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Ex Premiumin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/1941aef5a94e.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13062733.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13062733.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -723,13 +837,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Ex Premiumin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF0T7466381",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/534d34cd682d.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13146579.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13146579.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -738,13 +855,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDFXT7468848",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6421b544850b.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13212896.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13212896.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -753,13 +873,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF6T7479703",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/d1bd480397b1.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13317792.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13317792.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -768,13 +891,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF8T7486054",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/877073d5dfc1.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13373445.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13373445.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -783,14 +909,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EXin Prince George",
       "vin": "KNDPVCDF1T7486555",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ff00a331422a.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13405113.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13405113.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -799,13 +928,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EXin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDFXT7490641",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/1a28f686504c.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13411474.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13411474.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -814,14 +946,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LXin Prince George",
       "vin": "KNDPUCDF9T7491358",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/39df6186afb7.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13411475.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13411475.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -830,13 +965,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LXin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF1T7483285",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/2797b21f1f73.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421115.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -845,13 +983,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF4T7471955",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ac0804693d6b.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421116.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421116.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -860,13 +1001,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF0T7478160",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6836e1704c25.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421119.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421119.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -875,13 +1019,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF1T7488003",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/da2c4e7cac0e.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421120.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13421120.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -890,14 +1037,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LXin Prince George",
       "vin": "KNDPUCDF1T7490754",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/72afbe6aef6b.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13430263.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13430263.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -906,13 +1056,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LXin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDFXT7493751",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f9b4d15e8df4.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13455221.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13455221.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -921,13 +1074,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF2T7488477",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6f25bcce078b.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13479766.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13479766.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -936,13 +1092,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF7T7501529",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f0df4f350e4a.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13704459.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id13704459.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -951,13 +1110,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF0T7511741",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/066cad4febe1.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230742.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230742.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -966,14 +1128,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Ex Premiumin Prince George",
       "vin": "KNDPVCDF9T7521875",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Ex Premiumin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/3f93872d3e70.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230754.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230754.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -982,13 +1147,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Ex Premiumin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Linein Prince George",
       "vin": "KNDPUCDF2T7512566",
       "stock": "NUMBER",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/5019e50a1e98.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230761.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230761.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -997,14 +1165,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Linein Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EXin Prince George",
       "vin": "KNDPVCDF9T7534075",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/be385aa1968a.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230765.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14230765.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1013,14 +1184,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EXin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LXin Prince George",
       "vin": "KNDPUCDF6T7540029",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/0c2989dc5f21.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14333599.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage-id14333599.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1029,13 +1203,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LXin Prince George",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage HEV EXin Prince George",
       "vin": "KNDPVDDG4T7275817",
       "stock": "NUMBER",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/0bd0f6ccbfc3.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage_HEV-id12883659.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage_HEV-id12883659.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1044,14 +1221,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage HEV EXin Prince George",
-      "condition": "new"
+      "model": "Sportage HEV",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage HEV EXin Prince George",
       "vin": "KNDPVDDG8T7395085",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/107bdd2f3aee.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage_HEV-id14230764.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2026-Kia-Sportage_HEV-id14230764.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1060,14 +1240,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage HEV EXin Prince George",
-      "condition": "new"
+      "model": "Sportage HEV",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos X-Linein Prince George",
       "vin": "KNDEECD79V7031746",
       "stock": "NUMBER",
       "color": "Brown",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f57dc0b6f5ef.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14230752.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14230752.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1076,14 +1259,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos X-Linein Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos X-Linein Prince George",
       "vin": "KNDEECD79V7031911",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "X-Linein Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/c26cf8785b24.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14242631.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14242631.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1092,14 +1278,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos X-Linein Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EXin Prince George",
       "vin": "KNDECCD32V7037696",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/b4928066aaa6.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14286527.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14286527.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1108,14 +1297,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EXin Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EXin Prince George",
       "vin": "KNDECCD37V5019058",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/a79631434c4a.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291996.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291996.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1316,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EXin Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LXin Prince George",
       "vin": "KNDEBCD30V5017672",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/2d97b6e16b71.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291997.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291997.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1140,14 +1335,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LXin Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EXin Prince George",
       "vin": "KNDECCD3XV7051572",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "EXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/e079ebe53943.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291998.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291998.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1156,14 +1354,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EXin Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LXin Prince George",
       "vin": "KNDEBCD3XV5017453",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "LXin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/a1caea04daee.html",
       "source_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291999.html",
       "dealer_url": "https://www.gustafsonskia.ca/new/inventory/2027-Kia-Seltos-id14291999.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1172,8 +1373,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LXin Prince George",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     }
   ]
 }
