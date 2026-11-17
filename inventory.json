@@ -1,296 +1,67 @@
 {
   "dealership": "Gustafson S Kia",
-  "generated_at": "2026-10-26T05:48:00",
-  "vehicle_count": 57,
+  "generated_at": "2026-11-17T02:06:01",
+  "vehicle_count": 59,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Kia K4 LXin Prince George",
-      "vin": "3KPFT4DE2TE338901",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/30feba0251e5.html",
-      "condition": "new",
-      "price": 26545.0,
+      "name": "Kia Sorento 2019 for salein Prince George",
+      "vin": "5XYPHDA54KG438266",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/68274b1aad8c.html",
+      "condition": "used",
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia K4 LXin Prince George",
-      "vin": "3KPFT4DE5TE353036",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f00c6db181a7.html",
-      "condition": "new",
-      "price": 26330.0,
+      "name": "Subaru Ascent 2019 for salein Prince George",
+      "vin": "4S4WMAPD1K3487607",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/1f6ef96ddae3.html",
+      "condition": "used",
+      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia K4 LXin Prince George",
-      "vin": "3KPFT4DE1TE338937",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/315333dea0ff.html",
-      "condition": "new",
-      "price": 26580.0,
+      "name": "Kia Seltos 2021 for salein Prince George",
+      "vin": "KNDEPCAA8M7050426",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/b253db464313.html",
+      "condition": "used",
+      "price": 17995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia K4 Hatchback LXin Prince George",
-      "vin": "3KPFT5DE5TE347551",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6a89d11140ca.html",
-      "condition": "new",
-      "price": 27045.0,
+      "name": "Volkswagen Atlas 2021 for salein Prince George",
+      "vin": "1V2LR2CA7MC517107",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/67cf0b2d158f.html",
+      "condition": "used",
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia Seltos EXin Prince George",
-      "vin": "KNDEUCAA4T7885527",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/7d978aba3ca0.html",
-      "condition": "new",
-      "price": 33345.0,
+      "name": "Kia Sportage 2023 for salein Prince George",
+      "vin": "KNDPXCAFXP7116161",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/b9211dcbbe90.html",
+      "condition": "used",
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia Seltos LXin Prince George",
-      "vin": "KNDEPCAA4T7937326",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/cd24c1df5e6a.html",
-      "condition": "new",
-      "price": 30545.0,
+      "name": "Nissan Qashqai 2023 for salein Prince George",
+      "vin": "JN1BJ1BWXPW108245",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/ff268a6e4ea5.html",
+      "condition": "used",
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF4T7444934",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/35f56ce36542.html",
-      "condition": "new",
-      "price": 40295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage Ex Premiumin Prince George",
-      "vin": "KNDPVCDF2T7461972",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/1941aef5a94e.html",
-      "condition": "new",
-      "price": 44295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF0T7466381",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/534d34cd682d.html",
-      "condition": "new",
-      "price": 40295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDFXT7468848",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6421b544850b.html",
-      "condition": "new",
-      "price": 40295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF6T7479703",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/d1bd480397b1.html",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF8T7486054",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/877073d5dfc1.html",
-      "condition": "new",
-      "price": 40445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage EXin Prince George",
-      "vin": "KNDPVCDF1T7486555",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ff00a331422a.html",
-      "condition": "new",
-      "price": 42695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDFXT7490641",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/1a28f686504c.html",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage LXin Prince George",
-      "vin": "KNDPUCDF9T7491358",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/39df6186afb7.html",
-      "condition": "new",
-      "price": 36895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF1T7483285",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/2797b21f1f73.html",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF4T7471955",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ac0804693d6b.html",
-      "condition": "new",
-      "price": 40295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF0T7478160",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6836e1704c25.html",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF1T7488003",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/da2c4e7cac0e.html",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage LXin Prince George",
-      "vin": "KNDPUCDF1T7490754",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/72afbe6aef6b.html",
-      "condition": "new",
-      "price": 36895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDFXT7493751",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f9b4d15e8df4.html",
-      "condition": "new",
-      "price": 40445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF2T7488477",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6f25bcce078b.html",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF7T7501529",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f0df4f350e4a.html",
-      "condition": "new",
-      "price": 40695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF0T7511741",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/066cad4febe1.html",
-      "condition": "new",
-      "price": 40730.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage X-Linein Prince George",
-      "vin": "KNDPUCDF2T7512566",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/5019e50a1e98.html",
-      "condition": "new",
-      "price": 40730.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage EXin Prince George",
-      "vin": "KNDPVCDF9T7534075",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/be385aa1968a.html",
-      "condition": "new",
-      "price": 42730.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage LXin Prince George",
-      "vin": "KNDPUCDF6T7540029",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/0c2989dc5f21.html",
-      "condition": "new",
-      "price": 36930.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Kia Sportage HEV EXin Prince George",
-      "vin": "KNDPVDDG8T7395085",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/107bdd2f3aee.html",
-      "condition": "new",
-      "price": 42330.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos X-Linein Prince George",
-      "vin": "KNDEECD79V7031746",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f57dc0b6f5ef.html",
-      "condition": "new",
-      "price": 41780.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos X-Linein Prince George",
-      "vin": "KNDEECD79V7031911",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/c26cf8785b24.html",
-      "condition": "new",
-      "price": 41545.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos EXin Prince George",
-      "vin": "KNDECCD32V7037696",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/b4928066aaa6.html",
-      "condition": "new",
-      "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos EXin Prince George",
-      "vin": "KNDECCD3XV7051572",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/e079ebe53943.html",
-      "condition": "new",
-      "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos Ex Premiumin Prince George",
-      "vin": "KNDECCD31V5023588",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/e777c07c3430.html",
-      "condition": "new",
-      "price": 39280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos X-Linein Prince George",
-      "vin": "KNDEECD74V7032903",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/b7a12efb76ba.html",
-      "condition": "new",
-      "price": 41530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos Ex Premiumin Prince George",
-      "vin": "KNDECCD31V5031965",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ee944e7a3900.html",
-      "condition": "new",
-      "price": 39280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Kia Seltos Ex Premiumin Prince George",
-      "vin": "KNDECCD36V5016457",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/229a413e683d.html",
-      "condition": "new",
-      "price": 39280.0,
+      "name": "2019 Kia Sorento EX Premium AWDin Prince George",
+      "vin": "5XYPHDA54KG438266",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/9c743c2cc9d2.html",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
@@ -305,14 +76,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Subaru Ascent ",
-      "vin": "4S4WMAPD1K3487607",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/1f6ef96ddae3.html",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Ascent",
+      "name": "2021 Kia Seltos LX AWDin Prince George",
+      "vin": "KNDEPCAA8M7050426",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/65abb252c53c.html",
+      "year": 2021,
+      "make": "Kia",
+      "model": "Seltos",
       "condition": "used",
-      "price": 21995.0,
+      "price": 17995.0,
       "price_currency": "CAD"
     },
     {
@@ -327,31 +98,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volkswagen Atlas ",
-      "vin": "1V2LR2CA7MC517107",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/67cf0b2d158f.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Hyundai Tucson Essential AWDin Prince George",
       "vin": "KM8JBCAE4PU188918",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/bd1738e4f5b0.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Tucson ",
-      "vin": "KM8JBCAE4PU188918",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/d24a66d96dc3.html",
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson",
@@ -371,31 +120,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Seltos ",
-      "vin": "KNDETCA28P7435980",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/0cbc4aeae3fa.html",
+      "name": "2023 Kia Sportage X-Line Limited AWD w/Black Interiorin Prince George",
+      "vin": "KNDPXCAFXP7116161",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/1375342ea4c6.html",
       "year": 2023,
       "make": "Kia",
-      "model": "Seltos",
+      "model": "Sportage",
       "condition": "used",
-      "price": 21995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Nissan Qashqai AWD SV CVTin Prince George",
       "vin": "JN1BJ1BWXPW108245",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/7d1add5412b4.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Qashqai ",
-      "vin": "JN1BJ1BWXPW108245",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/ff268a6e4ea5.html",
       "year": 2023,
       "make": "Nissan",
       "model": "Qashqai",
@@ -415,34 +153,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Sportage ",
-      "vin": "KNDPUCDF3R7216268",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/9546b0d8a3d3.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Carnivalin Prince George",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/76dafc504e37.html",
       "year": 2026,
       "make": "Kia",
       "model": "Carnivalin Prince George",
       "condition": "used",
-      "price": 44679.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Carnival Hybridin Prince George",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/1cd728cf73d5.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Carnival",
-      "condition": "used",
-      "price": 50879.0,
+      "price": 44429.0,
       "price_currency": "CAD"
     },
     {
@@ -513,6 +230,402 @@
       "model": "Sportage",
       "condition": "used",
       "price": 43979.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia K4 LXin Prince George",
+      "vin": "3KPFT4DE2TE338901",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/30feba0251e5.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 26545.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia K4 LXin Prince George",
+      "vin": "3KPFT4DE5TE353036",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f00c6db181a7.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 26330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia K4 LXin Prince George",
+      "vin": "3KPFT4DE1TE338937",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/315333dea0ff.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 26580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia K4 Hatchback LXin Prince George",
+      "vin": "3KPFT5DE5TE347551",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6a89d11140ca.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 27045.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Seltos EXin Prince George",
+      "vin": "KNDEUCAA4T7885527",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/7d978aba3ca0.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 33345.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Seltos LXin Prince George",
+      "vin": "KNDEPCAA4T7937326",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/cd24c1df5e6a.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 30545.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF4T7444934",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/35f56ce36542.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage Ex Premiumin Prince George",
+      "vin": "KNDPVCDF2T7461972",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/1941aef5a94e.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF0T7466381",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/534d34cd682d.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDFXT7468848",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6421b544850b.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF6T7479703",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/d1bd480397b1.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF8T7486054",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/877073d5dfc1.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40445.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage EXin Prince George",
+      "vin": "KNDPVCDF1T7486555",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ff00a331422a.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 42695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDFXT7490641",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/1a28f686504c.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage LXin Prince George",
+      "vin": "KNDPUCDF9T7491358",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/39df6186afb7.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 36895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF1T7483285",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/2797b21f1f73.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF4T7471955",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ac0804693d6b.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF0T7478160",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6836e1704c25.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF1T7488003",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/da2c4e7cac0e.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage LXin Prince George",
+      "vin": "KNDPUCDF1T7490754",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/72afbe6aef6b.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 36895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDFXT7493751",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f9b4d15e8df4.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40445.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF2T7488477",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/6f25bcce078b.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF7T7501529",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f0df4f350e4a.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF0T7511741",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/066cad4febe1.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage X-Linein Prince George",
+      "vin": "KNDPUCDF2T7512566",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/5019e50a1e98.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage EXin Prince George",
+      "vin": "KNDPVCDF9T7534075",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/be385aa1968a.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 42730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage LXin Prince George",
+      "vin": "KNDPUCDF6T7540029",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/0c2989dc5f21.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 36930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Kia Sportage HEV EXin Prince George",
+      "vin": "KNDPVDDG8T7395085",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/107bdd2f3aee.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage HEV",
+      "condition": "new",
+      "price": 42330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos X-Linein Prince George",
+      "vin": "KNDEECD79V7031746",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/f57dc0b6f5ef.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 41780.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos X-Linein Prince George",
+      "vin": "KNDEECD79V7031911",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/c26cf8785b24.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 41545.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos EXin Prince George",
+      "vin": "KNDECCD32V7037696",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/b4928066aaa6.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 35980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos EXin Prince George",
+      "vin": "KNDECCD3XV7051572",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/e079ebe53943.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 35980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos Ex Premiumin Prince George",
+      "vin": "KNDECCD31V5023588",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/e777c07c3430.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 39280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos X-Linein Prince George",
+      "vin": "KNDEECD74V7032903",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/b7a12efb76ba.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 41530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos Ex Premiumin Prince George",
+      "vin": "KNDECCD31V5031965",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/ee944e7a3900.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 39280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Kia Seltos Ex Premiumin Prince George",
+      "vin": "KNDECCD36V5016457",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/229a413e683d.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 39280.0,
       "price_currency": "CAD"
     }
   ]
