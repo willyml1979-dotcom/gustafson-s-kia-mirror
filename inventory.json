@@ -1,7 +1,7 @@
 {
   "dealership": "Gustafson S Kia",
-  "generated_at": "2026-11-17T21:53:03",
-  "vehicle_count": 57,
+  "generated_at": "2026-11-18T07:26:23",
+  "vehicle_count": 58,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -528,6 +528,16 @@
       "model": "Sportage",
       "condition": "new",
       "price": 36680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybridin Prince George",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/cc693047949d.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 44129.0,
       "price_currency": "CAD"
     },
     {
