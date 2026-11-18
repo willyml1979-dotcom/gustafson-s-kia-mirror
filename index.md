@@ -1,6 +1,6 @@
 # Gustafson's Kia
 
- dealership in Prince George. AI-readable inventory mirror, about 58 vehicles.
+ dealership in Prince George. AI-readable inventory mirror, about 56 vehicles.
 
 - Official website: https://www.gustafsonskia.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/

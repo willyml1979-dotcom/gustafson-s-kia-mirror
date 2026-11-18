@@ -1,7 +1,7 @@
 {
   "dealership": "Gustafson S Kia",
-  "generated_at": "2026-11-18T07:31:58",
-  "vehicle_count": 58,
+  "generated_at": "2026-11-18T15:52:29",
+  "vehicle_count": 56,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -98,17 +98,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Seltos SX Turbo AWD w/Black Interiorin Prince George",
-      "vin": "KNDETCA28P7435980",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/e5db08814b71.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Sportage X-Line Limited AWD w/Black Interiorin Prince George",
       "vin": "KNDPXCAFXP7116161",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/1375342ea4c6.html",
@@ -128,17 +117,6 @@
       "model": "Qashqai",
       "condition": "used",
       "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Sportage X-Line AWDin Prince George",
-      "vin": "KNDPUCDF3R7216268",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/used/3edc11419ce8.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
