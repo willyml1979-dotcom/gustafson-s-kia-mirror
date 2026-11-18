@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Kia",
-  "generated_at": "2026-11-17T21:48:23",
+  "generated_at": "2026-11-17T21:53:03",
   "vehicle_count": 57,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -428,7 +428,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 40695.0,
+      "price": 39695.0,
       "price_currency": "CAD"
     },
     {
@@ -439,7 +439,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 40695.0,
+      "price": 39695.0,
       "price_currency": "CAD"
     },
     {
@@ -450,7 +450,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 40730.0,
+      "price": 39730.0,
       "price_currency": "CAD"
     },
     {
@@ -483,7 +483,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 40730.0,
+      "price": 39730.0,
       "price_currency": "CAD"
     },
     {
