@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Kia",
-  "generated_at": "2026-11-18T07:26:23",
+  "generated_at": "2026-11-18T07:31:58",
   "vehicle_count": 58,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -505,7 +505,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 42730.0,
+      "price": 41730.0,
       "price_currency": "CAD"
     },
     {
@@ -596,14 +596,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Kia Sportage HEV Ex Premiumin Prince George",
-      "vin": "KNDPVDDGXV7466757",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/930660f09fbf.html",
+      "name": "New 2027 Kia Seltos Ex Premiumin Prince George",
+      "vin": "KNDECCD33V5058617",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-kia-mirror/new/c947d792cb09.html",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage HEV",
+      "model": "Seltos",
       "condition": "new",
-      "price": 46880.0,
+      "price": 39280.0,
       "price_currency": "CAD"
     },
     {
